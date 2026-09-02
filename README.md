@@ -22,9 +22,12 @@ A curated list of iPhone and iPad apps that **keep your data on your device** 鈥
 ## Photos & Vault
 
 - [Obscura](https://apps.apple.com/app/id1497262424) - Manual camera that keeps photos on-device.
-- [Zafe](https://apps.apple.com/app/id6787344033) - Face ID-locked private photo vault; everything stays on-device, no account, no cloud. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/zafe.html)
 - [PicClear](https://apps.apple.com/app/id6780223070) - Finds duplicate and similar photos with an on-device scan; nothing uploaded, review before deleting. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/picclear.html)
 - [PhotoCream](https://apps.apple.com/app/id6781808054) - Film-look photo editing processed entirely on-device. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/photocream.html)
+- [Unblurry](https://apps.apple.com/app/id6782275018) - Lumi Studio on-device sharpening and upscaling for soft-focus or low-resolution photos. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/unblurry.html)
+- [Snapport](https://apps.apple.com/app/id6780575828) - Lumi Studio passport and ID photo maker with country-specific size templates, processed on the device. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/snapport.html)
+- [Snapport Lite](https://apps.apple.com/app/id6792856304) - Lumi Studio free-to-start passport, ID and visa photo maker that works offline. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/snapportlite.html)
+- [Mask My File](https://apps.apple.com/app/id6792850916) - Lumi Studio tool that finds private details in a file before you share it, so you can mask them and keep the rest readable. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/maskmyfile.html)
 
 ## Documents
 
@@ -32,6 +35,8 @@ A curated list of iPhone and iPad apps that **keep your data on your device** 鈥
 - [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Offline document scanner with OCR and Face ID lock; documents never leave your device. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/scanto.html)
 - [CV Desk](https://apps.apple.com/app/id6781337213) - On-device ATS resume scoring and keyword matching; your CV isn't uploaded. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/cvdesk.html)
 - [Sono Note](https://apps.apple.com/app/id6782139553) - On-device voice transcription, summary, and action items; no cloud account. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/sononote.html)
+- [100 Notes Studio](https://apps.apple.com/app/id6798813048) - Lumi Studio offline notebook for handwriting, typed notes, PDF markup and page-attached audio, built around the iPad. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/notesstudio100.html)
+- [AI Brief](https://apps.apple.com/app/id6791658210) - Lumi Studio tool that gathers screenshots, PDFs and notes into one organized brief before you hand context to an AI assistant. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aibriefpack.html)
 
 ## Health & Lifestyle
 
@@ -43,19 +48,26 @@ A curated list of iPhone and iPad apps that **keep your data on your device** 鈥
 
 - [G+Money](https://apps.apple.com/app/id6755782939) - Multi-currency expense tracker that works fully offline; no bank linking, no account. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/gmoney.html)
 - [HoursTag](https://apps.apple.com/app/id6754218117) - Converts prices into hours of work locally; no bank linking, no account. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/hourstag.html)
+- [MoneyTag: Income & Expense](https://apps.apple.com/app/id6801956402) - Lumi Studio project-based income and expense ledger with per-project results and cross-project tag analysis; on-device, no account. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/moneytag.html)
+- [G+Money Lite](https://apps.apple.com/app/id6793436548) - Lumi Studio travel expense tracker with currency conversion and saved offline rates; one trip free, one-time unlock for more. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/gmoneylite.html)
+- [HoursTag Lite](https://apps.apple.com/app/id6794039979) - Lumi Studio free-to-start companion to HoursTag that shows a purchase in hours of your work, on-device with no account. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/hourstaglite.html)
 
 ## Travel
 
 - [TripBee Lite](https://apps.apple.com/app/id6791299610) - Keeps one active journey, timeline, tickets, reminders, and maps together with no account, ads, or tracking. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripbeelite.html)
+- [TripBee Pro](https://apps.apple.com/app/id6787754435) - Lumi Studio day-by-day trip itinerary planner that works offline, with no account. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripbee.html)
 
 ## Learning
 
 - [Wordmate](https://apps.apple.com/app/id6789917808) - Pay-once vocabulary practice across 44 languages with no account, tracking, ads, or subscription. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wordmate.html)
+- [Wordmate Lite](https://apps.apple.com/app/id6797601720) - Lumi Studio vocabulary app for five words a day in about a minute, without building decks; free to start. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wordmatelite.html)
 
 ## Messaging & Utilities
 
 - [Signal](https://apps.apple.com/app/id874139669) - Private messenger, end-to-end encrypted.
 - [Proton Pass](https://apps.apple.com/app/id6443490629) - Privacy-focused password manager.
+- [LockHour Pro](https://apps.apple.com/app/id6780107485) - Lumi Studio app blocker built on Apple's Screen Time API, with timed sessions for focused work. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lockhour.html)
+- [WiFi Aid Lite](https://apps.apple.com/app/id6793414462) - Lumi Studio free-to-start network diagnostics with one complete free use per tool and an optional one-time unlock; no ads or tracking. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wifiaidlite.html)
 
 ## Notes
 
