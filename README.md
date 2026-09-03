@@ -22,7 +22,6 @@ A curated list of iPhone and iPad apps that **keep your data on your device** �
 ## Photos & Vault
 
 - [Obscura](https://apps.apple.com/app/id1497262424) - Manual camera that keeps photos on-device.
-- [Zafe](https://apps.apple.com/app/id6787344033) - Face ID-locked private photo vault; everything stays on-device, no account, no cloud. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/zafe.html)
 - [PicClear](https://apps.apple.com/app/id6780223070) - Finds duplicate and similar photos with an on-device scan; nothing uploaded, review before deleting. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/picclear.html)
 - [PhotoCream](https://apps.apple.com/app/id6781808054) - Film-look photo editing processed entirely on-device. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/photocream.html)
 
