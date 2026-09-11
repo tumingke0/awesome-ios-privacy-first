@@ -10,6 +10,7 @@ A curated list of iPhone and iPad apps that **keep your data on your device** 鈥
 
 - [Photos & Vault](#photos--vault)
 - [Documents](#documents)
+- [Files & Archives](#files--archives)
 - [Health & Lifestyle](#health--lifestyle)
 - [Money](#money)
 - [Travel](#travel)
@@ -37,6 +38,10 @@ A curated list of iPhone and iPad apps that **keep your data on your device** 鈥
 - [Sono Note](https://apps.apple.com/app/id6782139553) - On-device voice transcription, summary, and action items; no cloud account. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/sononote.html)
 - [100 Notes Studio](https://apps.apple.com/app/id6798813048) - Lumi Studio offline notebook for handwriting, typed notes, PDF markup and page-attached audio, built around the iPad. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/notesstudio100.html)
 - [AI Brief](https://apps.apple.com/app/id6791658210) - Lumi Studio tool that gathers screenshots, PDFs and notes into one organized brief before you hand context to an AI assistant. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aibriefpack.html)
+
+## Files & Archives
+
+- [Zipbox: Unzip RAR, ZIP & 7z](https://apps.apple.com/us/app/id6806776579?pt=118326163&ct=gh_aipf_zipbox&mt=8) - Lumi Studio archive utility with on-device extraction and ZIP/7z creation. Its App Store description states that the app makes no network requests and has no account, analytics or tracking code. 路 [publisher-authored guide](https://open.cait518.cc/ios-app-guide/hubs/zipbox.html)
 
 ## Health & Lifestyle
 
