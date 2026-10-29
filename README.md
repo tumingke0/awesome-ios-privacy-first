@@ -37,6 +37,7 @@ A curated list of iPhone and iPad apps that **keep your data on your device** �
 - [Gentler Streak](https://apps.apple.com/app/id1576402066) - Health tracking that emphasizes on-device data.
 - [Cyca](https://apps.apple.com/app/id6782251621) - Private period and cycle tracker; all data stays on-device with no account and no cloud sync. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/cyca.html)
 - [Sereno](https://apps.apple.com/app/id6788236641) - Sleep and focus soundscapes that play locally; no account required. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/sereno.html)
+- [Ripple](https://ripplefocus.github.io/en/) - On-device Screen Time parental control and focus for iOS 16+ and Android; no account, no cloud; blocks short-video surfaces while keeping chat.
 
 ## Money
 
